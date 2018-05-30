@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "packageNames": ["angular"],
+    "allowedVersions": "<=1.5"
+  }]
+}
